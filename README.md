@@ -18,10 +18,3 @@ Here are some ideas to get you started:
 ![monetking's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=monetking&hide=html)
 
 <!--![monetking's github stats](https://github-readme-stats.vercel.app/api?username=monetking&show_icons=true)-->
-
-
-### Contact me
-
-- https://github.com/monetking
-- https://monetking.github.io
-- houmanager@hotmail.com
